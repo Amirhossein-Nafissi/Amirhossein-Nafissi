@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amirhossein-Nafissi
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning Flutter Framework
+- 🌱 I’m currently learning the Flutter framework
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me on linkedIn @ https://www.linkedin.com/in/amir-nafissi/
+- 📫 Reach me on linkedIn @ https://www.linkedin.com/in/amir-nafissi/
 
 <!---
 Amirhossein-Nafissi/Amirhossein-Nafissi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
